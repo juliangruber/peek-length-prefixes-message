@@ -1,4 +1,4 @@
-# peek-length-prefixed-message",
+# peek-length-prefixed-message
 
   Get a stream's first [length-prefixed-message](https://npmjs.org/package/length-prefixed-message)
   while returning an unconsumed stream.
